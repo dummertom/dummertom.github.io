@@ -1,0 +1,7 @@
+@font-face {
+    font-family: myFirstFont;
+    src:local("/Users/cooler_tom/Desktop/Schule/LF1");
+}
+h1{
+    font-family: myFirstFont;
+}
