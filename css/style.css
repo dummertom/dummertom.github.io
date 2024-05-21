@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'bn_wolfstarrounded';
-    src: url('bnwolfstar-rounded-webfont.woff2') format('woff2'),
-         url('bnwolfstar-rounded-webfont.woff') format('woff');
+    src: url("/font/bnwolfstar-rounded-webfont.woff2") format('woff2'),
+         url("/font/bnwolfstar-rounded-webfont.woff") format('woff');
     font-weight: normal;
     font-style: normal;
 }
