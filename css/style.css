@@ -4,5 +4,7 @@
          url('bnwolfstar-rounded-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
+}
+body {
+    font-family: bn_wolfstarrounded;
 }
