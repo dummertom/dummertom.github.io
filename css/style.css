@@ -11,15 +11,8 @@ body {
     color: #5c119e;
     background-color: #c586fc;
 }
-.navbar{
-    display:flexbox;
-    
-}
-.navbar:hover{
-    color: cadetblue;
-}
 .header:hover{
-    color: teal;
+    color: aquamarine;
 }
 .Headline {
     align-content: center;
