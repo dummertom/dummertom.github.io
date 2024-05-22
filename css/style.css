@@ -11,6 +11,9 @@ body {
     color: #5c119e;
     background-color: #c586fc;
 }
+.navbar{
+    align-content: center;
+}
 .Headline {
     align-content: center;
     font-size: xx-large;
