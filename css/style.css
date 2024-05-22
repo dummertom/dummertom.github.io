@@ -18,6 +18,9 @@ body {
 .navbar:hover{
     color: cadetblue;
 }
+header:hover{
+    color: teal;
+}
 .Headline {
     align-content: center;
     font-size: xx-large;
