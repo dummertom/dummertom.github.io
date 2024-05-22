@@ -11,3 +11,7 @@ body {
     color: #5c119e;
     background-color: #c586fc;
 }
+.headline {
+    align-content: center;
+    font-size: xx-large;
+}
