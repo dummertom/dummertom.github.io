@@ -8,13 +8,40 @@
 
 body {
     font-family: bn_wolfstarrounded;
-    color: #5c119e;
-    background-color: #c586fc;
+    color: #966548;
+    background-color: #ADEBB3;
 }
 .header:hover{
-    color: aquamarine;
+    color: rgb(237, 255, 249);
 }
 .Headline {
     align-content: center;
     font-size: xx-large;
+}
+head {
+    font-size: xx-large;
+}
+
+.header {
+    display: flex;
+}
+
+.home {
+    margin-left: 100px;
+}
+
+.socials {
+    margin-left: 25px;
+}
+
+.pictures {
+    margin-left: 25px;
+}
+
+.projects {
+    margin-left: 25px;
+}
+
+.slams {
+    margin-left: 25px;
 }
